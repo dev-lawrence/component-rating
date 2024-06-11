@@ -46,7 +46,7 @@ const App = () => {
           <div className="star">
             <img src={Star} alt="" />
           </div>
-          <h1>How did we do today?</h1>
+          <h1>How did we do todays?</h1>
 
           <p>
             Please let us know how we did with your support request. All
